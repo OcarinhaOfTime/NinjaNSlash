@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da636856d4fcd694fa31bee2eed99761
+timeCreated: 1481394097
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KANEIWA alp regular
+  fontNames:
+  - KANEIWA alp regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1683 @@
+fileFormatVersion: 2
+guid: aff91e44b01ca8744b0396a11c55d63b
+timeCreated: 1477654402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gekka_0
+    21300002: Gekka_1
+    21300004: Gekka_2
+    21300006: Gekka_3
+    21300008: Gekka_4
+    21300010: Gekka_5
+    21300012: Gekka_6
+    21300014: Gekka_7
+    21300016: Gekka_8
+    21300018: Gekka_9
+    21300020: Gekka_10
+    21300022: Gekka_11
+    21300024: Gekka_12
+    21300026: Gekka_13
+    21300028: Gekka_14
+    21300030: Gekka_15
+    21300032: Gekka_16
+    21300034: Gekka_17
+    21300036: Gekka_18
+    21300038: Gekka_19
+    21300040: Gekka_20
+    21300042: Gekka_21
+    21300044: Gekka_22
+    21300046: Gekka_23
+    21300048: Gekka_24
+    21300050: Gekka_25
+    21300052: Gekka_26
+    21300054: Gekka_27
+    21300056: Gekka_28
+    21300058: Gekka_29
+    21300060: Gekka_30
+    21300062: Gekka_31
+    21300064: Gekka_32
+    21300066: Gekka_33
+    21300068: Gekka_34
+    21300070: Gekka_35
+    21300072: Gekka_36
+    21300074: Gekka_37
+    21300076: Gekka_38
+    21300078: Gekka_39
+    21300080: Gekka_40
+    21300082: Gekka_41
+    21300084: Gekka_42
+    21300086: Gekka_43
+    21300088: Gekka_44
+    21300090: Gekka_45
+    21300092: Gekka_46
+    21300094: Gekka_47
+    21300096: Gekka_48
+    21300098: Gekka_49
+    21300100: Gekka_50
+    21300102: Gekka_51
+    21300104: Gekka_52
+    21300106: Gekka_53
+    21300108: Gekka_54
+    21300110: Gekka_55
+    21300112: Gekka_56
+    21300114: Gekka_57
+    21300116: Gekka_58
+    21300118: Gekka_59
+    21300120: Gekka_60
+    21300122: Gekka_61
+    21300124: Gekka_62
+    21300126: Gekka_63
+    21300128: Gekka_64
+    21300130: Gekka_65
+    21300132: Gekka_66
+    21300134: Gekka_67
+    21300136: Gekka_68
+    21300138: Gekka_69
+    21300140: Gekka_70
+    21300142: Gekka_71
+    21300144: Gekka_72
+    21300146: Gekka_73
+    21300148: Gekka_74
+    21300150: Gekka_75
+    21300152: Gekka_76
+    21300154: Gekka_77
+    21300156: Gekka_78
+    21300158: Gekka_79
+    21300160: Gekka_80
+    21300162: Gekka_81
+    21300164: Gekka_82
+    21300166: Gekka_83
+    21300168: Gekka_84
+    21300170: Gekka_85
+    21300172: Gekka_86
+    21300174: Gekka_87
+    21300176: Gekka_88
+    21300178: Gekka_89
+    21300180: Gekka_90
+    21300182: Gekka_91
+    21300184: Gekka_92
+    21300186: Gekka_93
+    21300188: Gekka_94
+    21300190: Gekka_95
+    21300192: Gekka_96
+    21300194: Gekka_97
+    21300196: Gekka_98
+    21300198: Gekka_99
+    21300200: Gekka_100
+    21300202: Gekka_101
+    21300204: Gekka_102
+    21300206: Gekka_103
+    21300208: Gekka_104
+    21300210: Gekka_105
+    21300212: Gekka_106
+    21300214: Gekka_107
+    21300216: Gekka_108
+    21300218: Gekka_109
+    21300220: Gekka_110
+    21300222: Gekka_111
+    21300224: Gekka_112
+    21300226: Gekka_113
+    21300228: Gekka_114
+    21300230: Gekka_115
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gekka_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1413
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1414
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1414
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1334
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1334
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1335
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1254
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1255
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1253
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1172
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1170
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1170
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1171
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1171
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1171
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1090
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1095
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1095
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1095
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1094
+        width: 121
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1090
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1009
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1009
+        width: 117
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1010
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1011
+        width: 117
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 916
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 916
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 927
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 928
+        width: 121
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_30
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 928
+        width: 120
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 928
+        width: 117
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 837
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 836
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 836
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 839
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 839
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 838
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 755
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 755
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 754
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 756
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 756
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 674
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 674
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 674
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 674
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 675
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 675
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 675
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 594
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 594
+        width: 163
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 594
+        width: 197
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 594
+        width: 227
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 513
+        width: 259
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 513
+        width: 283
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_56
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 513
+        width: 315
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_57
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 513
+        width: 323
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 421
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 421
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 428
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 343
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 342
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 343
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 342
+        width: 102
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 343
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 343
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_68
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 342
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_69
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 343
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 377
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 255
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 253
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_74
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 252
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 254
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_76
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 248
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_77
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 317
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_78
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 319
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_79
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 249
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_80
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 247
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_81
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 220
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 159
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_85
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_86
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 170
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_87
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 162
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_88
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 222
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_89
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 163
+        width: 114
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 87
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_93
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 140
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 88
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 88
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_96
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 88
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_97
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 86
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_98
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 88
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_99
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 88
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_100
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 86
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_101
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 86
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_102
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 86
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_103
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 140
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_104
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 87
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_105
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 117
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_106
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 117
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_107
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_108
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_109
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 7
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_110
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 7
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_111
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 7
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_113
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 8
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_114
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gekka_115
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
